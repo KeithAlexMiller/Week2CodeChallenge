@@ -21,7 +21,7 @@ namespace Week2CodeChallenge
 
 
             //show the number of "i"s in the following:
-            Console.WriteLine(LetterCounter('i', "I love buscuits and gravy. It's the best breakfast ever."));
+            Console.WriteLine(LetterCounter('i', "I love biscuits and gravy. It's the best breakfast ever."));
 
             //show the number of "n"s while getting "Rick Rolled", I just wanna tell you how I'm feeling...
             Console.WriteLine(LetterCounter('n', "Never gonna give you up. Never gonna let you down."));
